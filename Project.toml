@@ -3,6 +3,9 @@ uuid = "f598356f-5cd3-4629-805b-43acb6b5cffb"
 authors = ["Daniel P. Egan <dp.egan@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
 [compat]
 julia = "1"
 
